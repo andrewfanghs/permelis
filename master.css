@@ -3,3 +3,8 @@ div{
   font-family: 'Satisfy', cursive;
   margin-top: 100px;
 }
+
+img{
+  width: 50%;
+  height: auto;
+}
